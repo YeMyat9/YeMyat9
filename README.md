@@ -1,16 +1,31 @@
-## Hi there 👋
+[![MasterHead](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)](https://YeMyat9.io)
+Hi 👋 My name is Ye Myat Moe
+============================
 
-<!--
-**YeMyat9/YeMyat9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently pursuing my degree in Computer Science
+-----------------------------------------------------
 
-Here are some ideas to get you started:
+- 🔭 Here's [my portfolio](https://yemyat144.github.io/portfolio/me.html).
+  
+- 🌱 I’m currently learning computer science.
+  
+- 👯 I’m looking to collaborate on everything.
+  
+- 💬 Ask me about anything.
+  
+- 📫 How to reach me: [yemyatmoe.tetee@gmail.com](mailto:yemyatmoe.tetee@gmail.com)
+  
+- ⚡ Fun fact: I am viking...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+
+<p align="left"> <a href="https://www.github.com/YeMyat9" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/YeMyat9"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YeMyat9&stroke=0891b2&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=0891b2&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
+
+<a href="https://github.com/YeMyat9" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeMyat9&langs_count=10&title_color=0891b2&text_color=0891b2&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
