@@ -5,7 +5,7 @@ Hi 👋 My name is Ye Myat Moe
 I am currently pursuing my degree in Computer Science
 -----------------------------------------------------
 
-- 🔭 Here's [my portfolio](https://yemyat9.github.io/portfolio/index.html).
+- 🔭 Here's [my portfolio](https://yemyat9.github.io/portfolio/).
   
 - 🌱 I’m currently learning computer science.
   
